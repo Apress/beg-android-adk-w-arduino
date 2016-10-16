@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjectFive</string>
+    <string name="notes_prompt">Choose a note</string>   
+    <string-array name="notes">
+        <item>C3</item>
+        <item>D3</item>
+        <item>E3</item>
+        <item>F3</item>
+        <item>G3</item>
+        <item>A3</item>
+        <item>B3</item>
+    </string-array>
+</resources>

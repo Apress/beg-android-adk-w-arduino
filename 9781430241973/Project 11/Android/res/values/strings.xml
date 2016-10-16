@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjectEleven</string>
+    <string name="y_axis_tilt_text_placeholder">Y-Axis Tilt: %1$s</string>
+</resources>

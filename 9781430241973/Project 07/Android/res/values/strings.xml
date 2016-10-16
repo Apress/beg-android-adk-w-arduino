@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjectSeven</string>
+    <string name="light_intensity_value">Light intensity: %1$s</string>
+</resources>

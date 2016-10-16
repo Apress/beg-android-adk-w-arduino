@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjectThirteen</string>
+    <string name="alarm_message">%1$s triggered an alarm!</string>
+    <string name="alarm_reset_message">Alarm system is reset and active!</string>
+    <string name="alarm_type_ir_light_barrier">IR Light Barrier</string>
+    <string name="photo_taken_message">Photo has been taken.</string>
+    <string name="log_written_message">Log has been written.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project.eight.adk.TemperatureView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:temperatureview="http://schemas.android.com/apk/res/project.eight.adk"
+	android:id="@+id/temperature_view" temperatureview:textSize="18"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:background="#FFFFFF">
+</project.eight.adk.TemperatureView>

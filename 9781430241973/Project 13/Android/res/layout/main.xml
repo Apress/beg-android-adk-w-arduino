@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linear_layout"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:gravity="center"
+	android:background="#FFFFFF">
+	<FrameLayout
+    android:id="@+id/camera_preview"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    />
+	<TextView android:id="@+id/alarm_text"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textColor="#000000"
+		android:text="@string/alarm_reset_message"/>
+	<TextView android:id="@+id/photo_taken_text"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textColor="#00FF00"/>
+	<TextView android:id="@+id/log_text"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textColor="#00FF00"/>
+</LinearLayout>
